@@ -1,4 +1,5 @@
 group project initiated by Ge Yu Feng, Oscar Ou
+people in this group: Ge Yu Feng, Oscar, , 
 
 1. isn't this diary style cool
 2. everyone in the project welcomed edit this readmefile
