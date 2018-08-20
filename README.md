@@ -8,6 +8,10 @@
 ### 6. Most of the communications might be appearing in this read me file, or there can be [option 1] [option 2] [option 3] (forms of communications).
 ### 7. Useful links will be here and there. our README.md file will be very responsive and actually it will eventually become our "documentation" for this project and maybe future projects.
 
+### 8. TODO LIST
+- configuration management and infrastructure as code, I am working on it adding it to our consideration and project if needed and helpful. So many tools out there useful.
+- can we get ios environment setup and transfer it to somewhere appropriate in future if needed, I know Cocoapods, is it needed and helpful in our case? Looks like it is a good tool for managing object-c or swift projects. Or any alternative? **Can someone do it?** <FillYourNameHere>
+
 ##### August 20 2018, Oscar writes
 1. Choosing Google Cloud (GCP) as 载体:). using the various GCP services.
 2. Should we use Sprint Boot. Yes?
@@ -53,4 +57,4 @@ apache-nutch-2.3.1   gs-spring-boot  mongodb-linux-x86_64-ubuntu1604-3.4.7  src
 - gs-spring-boot, spring is spring framework very useful framework
 - mongodb-linux-x86_64-ubuntu1604-3.4.7, mongodb database, one of the database options can pick. Please feel free to add MySQL part installation in it if wanted
 ```
-7. How should we do the packages management part (probably need to use a lot of thing maybe now or future, currently responsible for setting up some environments for us, these enrivonments can always be changed if you have a better solution / a nice suggestion, please feel free.
+7. Doing Ansible stuff.
