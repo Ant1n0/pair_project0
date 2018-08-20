@@ -1,15 +1,14 @@
-#### This is a group project initiated by Oscar Ou and Ge Yu Feng. One day we talked about doing some side projects to help us learn more skills of CS (Computer Science) and CE (Computer Engineering). We are both students from the University of Waterloo.
+### This is a group project initiated by Oscar Ou and Ge Yu Feng. One day we talked about doing some side projects to help us learn more skills of CS (Computer Science) and CE (Computer Engineering). We are both students from the University of Waterloo.
 
-#### Welcome our new member, Liu Yi Jian!
-#### Welcome next
+### Welcome Liu Yi Jian!
 
-# 1. isn't this diary style cool? we can use similar format also! :)
-# 2. **everyone in the project is welcomed to edit this file!**
-# 3. happy coding and good luck guys!
-# 4. All languages welcome! Dutch, English, Chinese, Or Student, Studentin, Or...or...or...
-# 5. There will be no lead person in this project I guess. We will be working as a whole to learn new skills, develop something useful for the world, and most importantly, ah... what is the most important again? Answer:
-# 6. Most of the communications might be appearing in this read me file I am guessing, or there can be [option 1] [option 2] [option 3] (forms of communications). Yay :)
-# 7. Useful links will be here and there. I hope our README.md file will be very responsive and actually it will eventually become our "documentation" for this project and maybe future projects:)
+### 1. isn't this diary style cool? we can use similar format also! :)
+### 2. **everyone in the project is welcomed to edit this file!**
+### 3. happy coding and good luck guys!
+### 4. All languages welcome! Dutch, English, Chinese, Or Student, Studentin, Or...or...or...
+### 5. There will be no lead person in this project I guess. We will be working as a whole to learn new skills, develop something useful for the world, and most importantly, ah... what is the most important again? Answer:
+### 6. Most of the communications might be appearing in this read me file I am guessing, or there can be [option 1] [option 2] [option 3] (forms of communications). Yay :)
+### 7. Useful links will be here and there. I hope our README.md file will be very responsive and actually it will eventually become our "documentation" for this project and maybe future projects:)
 
 ##### August 20 2018, Oscar writes
 1. Choosing Google Cloud (GCP) as 载体:) It is at least me a person in this group (I certainly hope more people will come) the first time using the various GCP services.
