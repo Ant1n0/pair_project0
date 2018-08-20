@@ -1,6 +1,4 @@
-### This is a group project initiated by Oscar Ou and Ge Yu Feng. One day we talked about doing some side projects to help us learn more skills of CS (Computer Science) and CE (Computer Engineering). We are both students from the University of Waterloo.
-
-### Welcome Liu Yi Jian!
+### This is a group project initiated by Oscar Ou and Ge Yu Feng. One day we talked about doing some side projects to help us learn more skills of CS (Computer Science) and CE (Computer Engineering). Welcome Liu Yi Jian!
 
 ### 1. isn't this diary style cool? we can use similar format also! :)
 ### 2. **everyone in the project is welcomed to edit this file!**
