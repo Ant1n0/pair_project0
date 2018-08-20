@@ -1,60 +1,50 @@
-### This is a group project initiated by Ge Yu Feng and Oscar Ou. One day we talked about doing some side projects to help us learn more skills of CS (Computer Science) and CE (Computer Engineering). Welcome Liu Yi Jian!
+group project initiated by Ge Yu Feng, Oscar Ou
 
-### 1. isn't this diary style cool? we can use similar format also! :)
-### 2. **everyone in the project is welcomed to edit this file!**
-### 3. happy coding and good luck!
-### 4. All languages welcome! Dutch, English, Chinese, Or Student, Studentin, Or...or...or...
-### 5. There will be no lead person in this project. We will be working as a whole to learn new skills, develop something useful for the world, and most importantly...
-### 6. Most of the communications might be appearing in this read me file, or there can be [option 1] [option 2] [option 3] (forms of communications).
-### 7. Useful links will be here and there. our README.md file will be very responsive and actually it will eventually become our "documentation" for this project and maybe future projects.
-
-### 8. TODO LIST
-- configuration management and infrastructure as code, I am working on it adding it to our consideration and project if needed and helpful. So many tools out there useful.
-- can we get ios environment setup and transfer it to somewhere appropriate in future if needed, I know Cocoapods, is it needed and helpful in our case? Looks like it is a good tool for managing object-c or swift projects. Or any alternative? **Can someone do it?** <FillYourNameHere>
-
-##### August 20 2018, Oscar writes
-1. Choosing Google Cloud (GCP) as 载体:). using the various GCP services.
-2. Should we use Sprint Boot. Yes?
+1. isn't this diary style cool
+2. everyone in the project welcomed edit this readmefile
+3. happy coding
+4. All languages welcome Python Dutch English Java..
+5. no lead person in this project
+6. Most communications might be appearing in readmefile
+7. Useful links will be here and there
+8. TODO
+- configuration, infrastructure, working on it adding it
+- can we get ios environment setup
+-----
+1. Choosing Google Cloud
+2. Should we use Sprint Boot
 ```
-Primitive roles https://cloud.google.com/iam/docs/understanding-roles
-Predefined roles 同上
-Custom roles the same link as Primitive roles
+Primitive roles
+Predefined roles
+Custom roles
 ```
-this is cool https://docs.spring.io/spring-python/1.2.x/sphinx/html/overview.html
-this is cool
+https://docs.spring.io/spring-python/1.2.x/sphinx/html/overview.html
 http://www.jython.org/archive/22/installation.html
-3. thinking how we collab. Let's go IAM.
-4. Maven vs Gradle vs our so many ide options... what a nice thinking needed here. We need to understand everyone of these choices.
+3. Let's go IAM
+4. Maven vs Gradle vs ides
 ```
 https://maven.apache.org/
 https://gradle.org/
-[links of ides] Can we use any of good ides, any suggestions guys?
 ```
-5. cute things (errors):
+5. errors
 ```
-1. Error: Unable to access jarfile jython_installer-2.7.1.jar
-2. E: Unable to locate package pip3-python
+- Error: Unable to access jarfile jython_installer-2.7.1.jar
+- E: Unable to locate package pip3-python
 ```
-solving them:
+6. useful commands for possible errors
 ```
 sudo apt-get install python3-setuptools
 sudo easy_install3 pip
 pip --version
 ```
-now it looks like we are having python 3.5
+we are having python 3.5
 
-6. Current Structure in that machine is something like this:
+7. Current structure in debian env
 ```
-_in home directory, type `ls`_:
+ls:
 a_explaination_file  data            logs                                   solr-6.5.1
 apache-nutch-2.3.1   gs-spring-boot  mongodb-linux-x86_64-ubuntu1604-3.4.7  src
 
-- a_explaination_file, useless file, can write something in it
-- data, data, should be containing data now and future
-- logs, logs, should be containing logs now and future
-- solr-6.5.1, that is apache solr, a very stable search engine
-- apache-nutch-2.3.1, apache nutch, related to crawling data part of our project
-- gs-spring-boot, spring is spring framework very useful framework
-- mongodb-linux-x86_64-ubuntu1604-3.4.7, mongodb database, one of the database options can pick. Please feel free to add MySQL part installation in it if wanted
+Please feel free to add MySQL part installation in it if needed
 ```
-7. Doing Ansible stuff.
+8. Ansible
